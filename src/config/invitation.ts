@@ -3,7 +3,7 @@ export const invitationConfig = {
     eyebrow: "UPACARA MANUSA YADNYA",
     title: "Metatah",
     person: "Anak Agung Arin Aprilianti",
-    date: "2026-10-15T05:00:00+08:00",
+    date: "2026-10-15T17:00:00+08:00",
     day: "Kamis",
     dateNumber: "15",
     monthYear: "Oktober 2026",
